@@ -1,0 +1,14 @@
+[report]
+
+omit =
+    */python?.?/*
+    */__pycache/*
+    */.pytest_cache/*
+    */env/*
+    *__init__*
+    */site-packages/*
+    tests/*
+    api/models/*
+    */dist-packages/*
+
+

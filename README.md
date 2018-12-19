@@ -1,5 +1,13 @@
+
+
 # Andela35 TRAINING REPO
 This repo is to help learners easily follow along during the session.
+
+[![Build Status](https://travis-ci.com/MukuruH/Andela35.svg?branch=deploy)](https://travis-ci.com/MukuruH/Andela35)
+
+[![Coverage Status](https://coveralls.io/repos/github/MukuruH/Andela35/badge.svg?branch=deploy)](https://coveralls.io/github/MukuruH/Andela35?branch=deploy)
+
+[![Maintainability](https://api.codeclimate.com/v1/badges/9a6939790f9b509426a7/maintainability)](https://codeclimate.com/github/MukuruH/Andela35/maintainability)
 
 ## GETTING STARTED
 * Clone this repo using 
